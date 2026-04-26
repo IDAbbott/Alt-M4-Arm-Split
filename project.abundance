@@ -18983,8 +18983,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.17893835616438356,
-          "y": 0.6097560975609756,
+          "x": 0.1815068493150685,
+          "y": 0.5975609756097561,
           "uniqueID": "id-54891",
           "name": "Connector",
           "topLevel": false,
@@ -21305,11 +21305,12 @@
               "ioValues": [
                 {
                   "name": "x length",
-                  "ioValue": 10
+                  "ioValue": 16
                 },
                 {
                   "name": "y length",
-                  "ioValue": 100
+                  "ioValue": 96,
+                  "currentEquation": "96"
                 }
               ]
             },
