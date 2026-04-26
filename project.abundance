@@ -22016,8 +22016,8 @@
             },
             {
               "atomType": "Move",
-              "x": 0.4037940379403794,
-              "y": 0.9219512195121952,
+              "x": 0.4015410958904109,
+              "y": 0.9121951219512195,
               "uniqueID": "id-75247",
               "ioValues": [
                 {
@@ -22030,7 +22030,7 @@
                 },
                 {
                   "name": "yDist",
-                  "ioValue": -12
+                  "ioValue": -16
                 },
                 {
                   "name": "zDist",
@@ -22054,7 +22054,7 @@
                 },
                 {
                   "name": "yDist",
-                  "ioValue": 12
+                  "ioValue": 16
                 },
                 {
                   "name": "zDist",
@@ -22602,11 +22602,11 @@
               "ioValues": [
                 {
                   "name": "Thread",
-                  "ioValue": 3.2
+                  "ioValue": 3.5
                 },
                 {
                   "name": "Nut",
-                  "ioValue": 6.8
+                  "ioValue": 7.1
                 }
               ],
               "topLevel": false,
@@ -22631,7 +22631,7 @@
                   "ioValues": [
                     {
                       "name": "diameter",
-                      "ioValue": 3.2
+                      "ioValue": 3.5
                     }
                   ]
                 },
@@ -22647,7 +22647,7 @@
                     },
                     {
                       "name": "diameter",
-                      "ioValue": 7.208
+                      "ioValue": 7.526
                     }
                   ]
                 },
@@ -22676,7 +22676,7 @@
                     {
                       "name": "Shape 1",
                       "ioValue": {
-                        "geometry": "move-extrude-circle-1.6-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-25-0-0-7",
+                        "geometry": "move-extrude-circle-1.75-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-25-0-0-7",
                         "dimension": "3D",
                         "tags": [],
                         "plane": {
@@ -22703,7 +22703,7 @@
                     {
                       "name": "Shape 2",
                       "ioValue": {
-                        "geometry": "loft-move-polysides-3.4-6-0-0-0-polysides-3.604-6-{\"origin\":[0,0,20],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}",
+                        "geometry": "loft-move-polysides-3.55-6-0-0-0-polysides-3.763-6-{\"origin\":[0,0,20],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}",
                         "dimension": "3D",
                         "tags": [],
                         "plane": {
@@ -22742,7 +22742,7 @@
                     },
                     {
                       "name": "diameter",
-                      "ioValue": 6.8
+                      "ioValue": 7.1
                     }
                   ]
                 },
@@ -22791,7 +22791,7 @@
                     {
                       "name": "Shape 1",
                       "ioValue": {
-                        "geometry": "move-polysides-3.4-6-0-0-0",
+                        "geometry": "move-polysides-3.55-6-0-0-0",
                         "dimension": "2D",
                         "tags": [],
                         "plane": {
@@ -22818,7 +22818,7 @@
                     {
                       "name": "Shape 2",
                       "ioValue": {
-                        "geometry": "polysides-3.604-6",
+                        "geometry": "polysides-3.763-6",
                         "dimension": "2D",
                         "tags": [],
                         "plane": {
@@ -22896,7 +22896,7 @@
                   "ioValues": [
                     {
                       "name": "x",
-                      "ioValue": 6.8
+                      "ioValue": 7.1
                     },
                     {
                       "name": "y",
