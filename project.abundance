@@ -19904,8 +19904,8 @@
         },
         {
           "atomType": "Rotate",
-          "x": 0.25112917795844625,
-          "y": 0.5829268292682928,
+          "x": 0.2525684931506849,
+          "y": 0.5365853658536586,
           "uniqueID": "id-59660",
           "ioValues": [
             {
@@ -20165,8 +20165,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.09033423667570009,
-          "y": 0.6365853658536585,
+          "x": 0.09417808219178081,
+          "y": 0.5853658536585367,
           "uniqueID": "id-59788",
           "name": "MotorHoles",
           "topLevel": false,
@@ -21279,8 +21279,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.10840108401084012,
-          "y": 0.4658536585365854,
+          "x": 0.0993150684931507,
+          "y": 0.3853658536585366,
           "uniqueID": "id-59893",
           "name": "Connector",
           "topLevel": false,
@@ -21305,7 +21305,7 @@
               "ioValues": [
                 {
                   "name": "x length",
-                  "ioValue": 18
+                  "ioValue": 15
                 },
                 {
                   "name": "y length",
@@ -21342,7 +21342,7 @@
                 },
                 {
                   "name": "xDist",
-                  "ioValue": -95
+                  "ioValue": -92
                 },
                 {
                   "name": "yDist",
@@ -21372,8 +21372,8 @@
             },
             {
               "atomType": "Circle",
-              "x": 0.15808491418247517,
-              "y": 0.5609756097560976,
+              "x": 0.1541095890410959,
+              "y": 0.47073170731707314,
               "uniqueID": "id-59902",
               "ioValues": [
                 {
@@ -21384,8 +21384,8 @@
             },
             {
               "atomType": "Extrude",
-              "x": 0.28545618789521227,
-              "y": 0.5707317073170731,
+              "x": 0.3159246575342466,
+              "y": 0.4804878048780488,
               "uniqueID": "id-59903",
               "ioValues": [
                 {
@@ -21400,8 +21400,8 @@
             },
             {
               "atomType": "Assembly",
-              "x": 0.5230352303523036,
-              "y": 0.35609756097560974,
+              "x": 0.533390410958904,
+              "y": 0.2829268292682927,
               "uniqueID": "id-75153",
               "ioValues": [
                 {
@@ -21435,13 +21435,17 @@
                 {
                   "name": "Shape 4",
                   "ioValue": null
+                },
+                {
+                  "name": "Shape 5",
+                  "ioValue": null
                 }
               ]
             },
             {
               "atomType": "Rectangle",
-              "x": 0.12556458897922312,
-              "y": 0.4268292682926829,
+              "x": 0.13184931506849315,
+              "y": 0.3146341463414634,
               "uniqueID": "id-75163",
               "ioValues": [
                 {
@@ -21456,8 +21460,8 @@
             },
             {
               "atomType": "Extrude",
-              "x": 0.22944896115627822,
-              "y": 0.4292682926829268,
+              "x": 0.24571917808219176,
+              "y": 0.3268292682926829,
               "uniqueID": "id-75167",
               "ioValues": [
                 {
@@ -21472,8 +21476,8 @@
             },
             {
               "atomType": "Move",
-              "x": 0.3667570009033424,
-              "y": 0.4560975609756098,
+              "x": 0.3784246575342466,
+              "y": 0.3292682926829268,
               "uniqueID": "id-75171",
               "ioValues": [
                 {
@@ -22419,6 +22423,62 @@
               },
               "unitsKey": "MM",
               "fileTypeVersion": 1
+            },
+            {
+              "atomType": "Rectangle",
+              "x": 0.1035958904109589,
+              "y": 0.5829268292682928,
+              "uniqueID": "id-83000",
+              "ioValues": [
+                {
+                  "name": "x length",
+                  "ioValue": 10
+                },
+                {
+                  "name": "y length",
+                  "ioValue": 10
+                }
+              ]
+            },
+            {
+              "atomType": "Extrude",
+              "x": 0.22431506849315067,
+              "y": 0.5829268292682928,
+              "uniqueID": "id-83004",
+              "ioValues": [
+                {
+                  "name": "geometry",
+                  "ioValue": "__GEOMETRY_INPUT__"
+                },
+                {
+                  "name": "height",
+                  "ioValue": 10
+                }
+              ]
+            },
+            {
+              "atomType": "Move",
+              "x": 0.32431506849315067,
+              "y": 0.5829268292682928,
+              "uniqueID": "id-83009",
+              "ioValues": [
+                {
+                  "name": "geometry",
+                  "ioValue": "__GEOMETRY_INPUT__"
+                },
+                {
+                  "name": "xDist",
+                  "ioValue": 0
+                },
+                {
+                  "name": "yDist",
+                  "ioValue": 0
+                },
+                {
+                  "name": "zDist",
+                  "ioValue": 0
+                }
+              ]
             }
           ],
           "allConnectors": [
@@ -22501,14 +22561,29 @@
               "ap2Name": "geometry",
               "ap1ID": "id-75206",
               "ap2ID": "id-75253"
+            },
+            {
+              "ap2Name": "geometry",
+              "ap1ID": "id-83000",
+              "ap2ID": "id-83004"
+            },
+            {
+              "ap2Name": "geometry",
+              "ap1ID": "id-83004",
+              "ap2ID": "id-83009"
+            },
+            {
+              "ap2Name": "Shape 5",
+              "ap1ID": "id-83009",
+              "ap2ID": "id-75158"
             }
           ],
           "fileTypeVersion": 1
         },
         {
           "atomType": "Move",
-          "x": 0.23667570009033423,
-          "y": 0.8317073170731707,
+          "x": 0.2542808219178082,
+          "y": 0.7317073170731707,
           "uniqueID": "id-82932",
           "ioValues": [
             {
@@ -22531,8 +22606,8 @@
         },
         {
           "atomType": "GitHubMolecule",
-          "x": 0.1056910569105691,
-          "y": 0.8317073170731707,
+          "x": 0.1113013698630137,
+          "y": 0.7609756097560976,
           "uniqueID": "id-82951",
           "name": "ScrewBlank",
           "ioValues": [
