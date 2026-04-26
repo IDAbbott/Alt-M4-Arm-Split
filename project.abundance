@@ -19045,7 +19045,7 @@
                 },
                 {
                   "name": "xDist",
-                  "ioValue": -60
+                  "ioValue": -80
                 },
                 {
                   "name": "yDist",
@@ -19111,22 +19111,6 @@
                 {
                   "name": "zDist",
                   "ioValue": 4
-                }
-              ]
-            },
-            {
-              "atomType": "Difference",
-              "x": 0.6874435411020776,
-              "y": 0.2804878048780488,
-              "uniqueID": "id-54935",
-              "ioValues": [
-                {
-                  "name": "geometry1",
-                  "ioValue": "__GEOMETRY_INPUT__"
-                },
-                {
-                  "name": "geometry2",
-                  "ioValue": "__GEOMETRY_INPUT__"
                 }
               ]
             },
@@ -19745,13 +19729,13 @@
             },
             {
               "atomType": "Circle",
-              "x": 0.15753424657534248,
-              "y": 0.6048780487804878,
+              "x": 0.15325342465753425,
+              "y": 0.602439024390244,
               "uniqueID": "id-85610",
               "ioValues": [
                 {
                   "name": "diameter",
-                  "ioValue": 131
+                  "ioValue": 129
                 }
               ]
             },
@@ -19770,6 +19754,22 @@
                   "ioValue": 22
                 }
               ]
+            },
+            {
+              "atomType": "Difference",
+              "x": 0.6712328767123287,
+              "y": 0.24390243902439027,
+              "uniqueID": "id-85618",
+              "ioValues": [
+                {
+                  "name": "geometry1",
+                  "ioValue": "__GEOMETRY_INPUT__"
+                },
+                {
+                  "name": "geometry2",
+                  "ioValue": "__GEOMETRY_INPUT__"
+                }
+              ]
             }
           ],
           "allConnectors": [
@@ -19786,7 +19786,7 @@
             {
               "ap2Name": "geometry1",
               "ap1ID": "id-54903",
-              "ap2ID": "id-54935"
+              "ap2ID": "id-85618"
             },
             {
               "ap2Name": "geometry",
@@ -19804,11 +19804,6 @@
               "ap2ID": "id-54946"
             },
             {
-              "ap2Name": "number or geometry",
-              "ap1ID": "id-54935",
-              "ap2ID": "id-54893"
-            },
-            {
               "ap2Name": "geometry",
               "ap1ID": "id-54939",
               "ap2ID": "id-85604"
@@ -19821,7 +19816,7 @@
             {
               "ap2Name": "geometry2",
               "ap1ID": "id-54946",
-              "ap2ID": "id-54935"
+              "ap2ID": "id-85618"
             },
             {
               "ap2Name": "geometry",
