@@ -20,8 +20,8 @@
     },
     {
       "atomType": "Assembly",
-      "x": 0.6431797651309846,
-      "y": 0.5365853658536586,
+      "x": 0.6404697380307136,
+      "y": 0.5317073170731708,
       "uniqueID": "id-1665",
       "ioValues": [
         {
@@ -428,8 +428,8 @@
     },
     {
       "atomType": "Export",
-      "x": 0.3667570009033424,
-      "y": 0.13658536585365855,
+      "x": 0.37037037037037035,
+      "y": 0.13902439024390242,
       "uniqueID": "id-75179",
       "ioValues": [
         {
@@ -447,14 +447,14 @@
         },
         {
           "name": "Part Name",
-          "ioValue": "Alternate-M4-Arm-Split",
-          "currentEquation": "Alternate-M4-Arm-Split"
+          "ioValue": "MotorBase",
+          "currentEquation": "MotorBase"
         }
       ],
       "type": "STEP",
       "resolution": 96,
       "importIndex": 0,
-      "partName": "Alternate-M4-Arm-Split"
+      "partName": "MotorBase"
     },
     {
       "atomType": "Color",
@@ -19533,8 +19533,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.03884372177055104,
-          "y": 0.7560975609756098,
+          "x": 0.08943089430894309,
+          "y": 0.7609756097560976,
           "uniqueID": "id-59788",
           "name": "MotorHoles",
           "topLevel": false,
