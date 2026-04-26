@@ -10794,7 +10794,7 @@
               "ioValue": {
                 "geometry": [
                   {
-                    "geometry": "move-rotate-extrude-polysides-25-8-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-4-0-0-25--70-0-0",
+                    "geometry": "move-rotate-extrude-polysides-25-8-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-4-0-0-23--70-0-0",
                     "dimension": "3D",
                     "tags": [],
                     "plane": {
@@ -14913,11 +14913,12 @@
                 },
                 {
                   "name": "y-axis degrees",
-                  "ioValue": 0
+                  "ioValue": 0,
+                  "currentEquation": "0"
                 },
                 {
                   "name": "z-axis degrees",
-                  "ioValue": 25
+                  "ioValue": 23
                 }
               ]
             },
@@ -20053,7 +20054,7 @@
                 },
                 {
                   "name": "diameter",
-                  "ioValue": 50
+                  "ioValue": 49
                 }
               ]
             },
