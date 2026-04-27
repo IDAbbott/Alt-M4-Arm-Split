@@ -10765,7 +10765,7 @@
             {
               "name": "Shape 5",
               "ioValue": {
-                "geometry": "cut-cut-cut-cut-move-extrude-cut-circle-57.5-circle-20-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-10-0-0-1-cut-cut-rotate-move-rotate-extrude-polysides-30-3-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-19-0-0-0-0--45-4-0-0-90-rotate-move-rotate-extrude-polysides-30-3-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-19-0-0-0-0--45-4-0-0-180-move-rotate-extrude-polysides-30-3-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-19-0-0-0-0--45-4-cut-rotate-move-rotate-extrude-polysides-30-3-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-19-0-0-0-0--45-4-0-0-180-rotate-move-rotate-extrude-polysides-30-3-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-19-0-0-0-0--45-4-0-0-270-cut-rotate-move-rotate-extrude-polysides-30-3-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-19-0-0-0-0--45-4-0-0-270-move-rotate-extrude-polysides-30-3-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-19-0-0-0-0--45-4-move-rotate-extrude-polysides-30-3-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-19-0-0-0-0--45-4",
+                "geometry": "cut-cut-cut-cut-move-extrude-cut-circle-57.5-circle-20-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-10-0-0-1-cut-cut-rotate-move-rotate-extrude-polysides-30-3-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-19-0-0-0-0--45-5-0-0-90-rotate-move-rotate-extrude-polysides-30-3-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-19-0-0-0-0--45-5-0-0-180-move-rotate-extrude-polysides-30-3-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-19-0-0-0-0--45-5-cut-rotate-move-rotate-extrude-polysides-30-3-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-19-0-0-0-0--45-5-0-0-180-rotate-move-rotate-extrude-polysides-30-3-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-19-0-0-0-0--45-5-0-0-270-cut-rotate-move-rotate-extrude-polysides-30-3-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-19-0-0-0-0--45-5-0-0-270-move-rotate-extrude-polysides-30-3-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-19-0-0-0-0--45-5-move-rotate-extrude-polysides-30-3-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-19-0-0-0-0--45-5",
                 "dimension": "3D",
                 "tags": [],
                 "plane": {
@@ -10973,7 +10973,7 @@
         {
           "atomType": "Fusion",
           "x": 0.5667808219178082,
-          "y": 0.22975929978118165,
+          "y": 0.2188183807439825,
           "uniqueID": "238fac3f-68d0-40c9-bf63-d4bfbee6bf93",
           "ioValues": [
             {
@@ -11630,8 +11630,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.23202054794520546,
-          "y": 0.4585365853658536,
+          "x": 0.2285958904109589,
+          "y": 0.4442013129102845,
           "uniqueID": 1749504410589,
           "name": "BottomDisk",
           "topLevel": false,
@@ -14583,8 +14583,8 @@
             },
             {
               "atomType": "Move",
-              "x": 0.4357876712328767,
-              "y": 0.6048780487804878,
+              "x": 0.375,
+              "y": 0.7221006564551423,
               "uniqueID": "id-21382",
               "ioValues": [
                 {
@@ -14601,7 +14601,7 @@
                 },
                 {
                   "name": "zDist",
-                  "ioValue": 4
+                  "ioValue": 5
                 }
               ]
             },
@@ -14663,8 +14663,8 @@
             },
             {
               "atomType": "Rotate",
-              "x": 0.6754155730533684,
-              "y": 0.40829694323144106,
+              "x": 0.5445205479452054,
+              "y": 0.42669584245076586,
               "uniqueID": "id-21386",
               "ioValues": [
                 {
@@ -14687,8 +14687,8 @@
             },
             {
               "atomType": "Rotate",
-              "x": 0.6745406824146981,
-              "y": 0.5698689956331878,
+              "x": 0.550513698630137,
+              "y": 0.5951859956236324,
               "uniqueID": "id-21387",
               "ioValues": [
                 {
@@ -14711,8 +14711,8 @@
             },
             {
               "atomType": "Rotate",
-              "x": 0.6465441819772528,
-              "y": 0.7205240174672489,
+              "x": 0.5393835616438356,
+              "y": 0.798687089715536,
               "uniqueID": "id-21388",
               "ioValues": [
                 {
@@ -14735,8 +14735,8 @@
             },
             {
               "atomType": "Difference",
-              "x": 0.8993875765529309,
-              "y": 0.34279475982532753,
+              "x": 0.8981164383561645,
+              "y": 0.336980306345733,
               "uniqueID": "id-21389",
               "ioValues": [
                 {
@@ -14751,8 +14751,8 @@
             },
             {
               "atomType": "Assembly",
-              "x": 0.8145231846019247,
-              "y": 0.6572052401746725,
+              "x": 0.7508561643835616,
+              "y": 0.62363238512035,
               "uniqueID": "id-21390",
               "ioValues": [
                 {
