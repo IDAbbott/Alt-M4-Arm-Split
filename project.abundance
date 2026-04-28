@@ -20034,7 +20034,7 @@
         {
           "atomType": "Move",
           "x": 0.2542808219178082,
-          "y": 0.7317073170731707,
+          "y": 0.7024070021881837,
           "uniqueID": "id-82932",
           "ioValues": [
             {
@@ -20066,7 +20066,7 @@
               "ioValue": "__GEOMETRY_INPUT__"
             }
           ],
-          "selectedColor": "Glass"
+          "selectedColor": "White"
         },
         {
           "atomType": "Assembly",
@@ -20182,7 +20182,7 @@
             },
             {
               "name": "zDist",
-              "ioValue": 0
+              "ioValue": -0.4
             }
           ]
         },
@@ -20348,8 +20348,8 @@
         },
         {
           "atomType": "GitHubMolecule",
-          "x": 0.1113013698630137,
-          "y": 0.7609756097560976,
+          "x": 0.1035958904109589,
+          "y": 0.7155361050328227,
           "uniqueID": "id-82951",
           "name": "ScrewBlank",
           "ioValues": [
@@ -20751,8 +20751,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.08390410958904108,
-          "y": 0.586433260393873,
+          "x": 0.0898972602739726,
+          "y": 0.5273522975929978,
           "uniqueID": "id-59788",
           "name": "MotorHoles",
           "topLevel": false,
@@ -21744,8 +21744,8 @@
             },
             {
               "atomType": "Difference",
-              "x": 0.7208904109589042,
-              "y": 0.44857768052516406,
+              "x": 0.7200342465753424,
+              "y": 0.4420131291028447,
               "uniqueID": "id-59901",
               "ioValues": [
                 {
@@ -22623,7 +22623,7 @@
                     },
                     {
                       "name": "xDist",
-                      "ioValue": -42
+                      "ioValue": -47
                     },
                     {
                       "name": "yDist",
@@ -22647,7 +22647,7 @@
                     },
                     {
                       "name": "xDist",
-                      "ioValue": -42
+                      "ioValue": -47
                     },
                     {
                       "name": "yDist",
@@ -22672,7 +22672,7 @@
                     },
                     {
                       "name": "y",
-                      "ioValue": 7
+                      "ioValue": 12
                     }
                   ],
                   "currentEquation": "x - y"
