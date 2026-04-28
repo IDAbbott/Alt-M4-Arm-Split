@@ -21850,7 +21850,7 @@
               "ioValues": [
                 {
                   "name": "x length",
-                  "ioValue": 70
+                  "ioValue": 60
                 },
                 {
                   "name": "y length",
@@ -21886,7 +21886,7 @@
                 },
                 {
                   "name": "xDist",
-                  "ioValue": -80
+                  "ioValue": -70
                 },
                 {
                   "name": "yDist",
@@ -22090,7 +22090,7 @@
               "ioValues": [
                 {
                   "name": "x length",
-                  "ioValue": 60
+                  "ioValue": 50
                 },
                 {
                   "name": "y length",
@@ -22242,8 +22242,7 @@
                     },
                     {
                       "name": "yDist",
-                      "ioValue": -40,
-                      "currentEquation": "-40"
+                      "ioValue": -40
                     },
                     {
                       "name": "zDist",
@@ -22624,12 +22623,11 @@
                     },
                     {
                       "name": "xDist",
-                      "ioValue": -34
+                      "ioValue": -42
                     },
                     {
                       "name": "yDist",
-                      "ioValue": -16,
-                      "currentEquation": "-16"
+                      "ioValue": -16
                     },
                     {
                       "name": "zDist",
@@ -22649,12 +22647,11 @@
                     },
                     {
                       "name": "xDist",
-                      "ioValue": -35
+                      "ioValue": -42
                     },
                     {
                       "name": "yDist",
-                      "ioValue": 16,
-                      "currentEquation": "16"
+                      "ioValue": 16
                     },
                     {
                       "name": "zDist",
@@ -22664,10 +22661,10 @@
                 },
                 {
                   "atomType": "Equation",
-                  "x": 0.502568493150685,
-                  "y": 0.7833698030634573,
+                  "x": 0.5077054794520548,
+                  "y": 0.7724288840262582,
                   "uniqueID": "id-130802",
-                  "name": "x + y",
+                  "name": "x - y",
                   "ioValues": [
                     {
                       "name": "x",
@@ -22675,10 +22672,10 @@
                     },
                     {
                       "name": "y",
-                      "ioValue": 1
+                      "ioValue": 7
                     }
                   ],
-                  "currentEquation": "x + y"
+                  "currentEquation": "x - y"
                 }
               ],
               "allConnectors": [
@@ -22793,11 +22790,6 @@
                   "ap2ID": "id-59915"
                 },
                 {
-                  "ap2Name": "xDist",
-                  "ap1ID": "id-130786",
-                  "ap2ID": "id-130789"
-                },
-                {
                   "ap2Name": "x",
                   "ap1ID": "id-130786",
                   "ap2ID": "id-130802"
@@ -22816,6 +22808,11 @@
                   "ap2Name": "xDist",
                   "ap1ID": "id-130802",
                   "ap2ID": "id-130788"
+                },
+                {
+                  "ap2Name": "xDist",
+                  "ap1ID": "id-130802",
+                  "ap2ID": "id-130789"
                 }
               ],
               "fileTypeVersion": 1
