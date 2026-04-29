@@ -10179,8 +10179,8 @@
         },
         {
           "atomType": "Difference",
-          "x": 0.726027397260274,
-          "y": 0.4617067833698031,
+          "x": 0.7294520547945206,
+          "y": 0.46608315098468267,
           "uniqueID": "208f9c73-98a9-4c24-994f-0b7e2ac907e0",
           "ioValues": [
             {
@@ -10863,7 +10863,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "move-extrude-rectangle-20-60-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-10--90-0-18",
+                    "geometry": "move-extrude-rectangle-8-40-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-10--84-0-18",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -14653,8 +14653,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.136986301369863,
-          "y": 0.8536585365853658,
+          "x": 0.1344178082191781,
+          "y": 0.8293216630196937,
           "uniqueID": "id-21373",
           "name": "BaseCutout",
           "topLevel": false,
@@ -14859,11 +14859,11 @@
               "ioValues": [
                 {
                   "name": "x length",
-                  "ioValue": 20
+                  "ioValue": 8
                 },
                 {
                   "name": "y length",
-                  "ioValue": 60
+                  "ioValue": 40
                 }
               ]
             },
@@ -14895,15 +14895,17 @@
                 },
                 {
                   "name": "xDist",
-                  "ioValue": -90
+                  "ioValue": -84
                 },
                 {
                   "name": "yDist",
-                  "ioValue": 0
+                  "ioValue": 0,
+                  "currentEquation": "0"
                 },
                 {
                   "name": "zDist",
-                  "ioValue": 18
+                  "ioValue": 18,
+                  "currentEquation": "18"
                 }
               ]
             }
