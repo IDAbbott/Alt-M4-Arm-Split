@@ -19558,6 +19558,19 @@
             }
           ],
           "fileTypeVersion": 1
+        },
+        {
+          "atomType": "Color",
+          "x": 0.8090753424657534,
+          "y": 0.3522975929978118,
+          "uniqueID": "id-151873",
+          "ioValues": [
+            {
+              "name": "geometry",
+              "ioValue": "__GEOMETRY_INPUT__"
+            }
+          ],
+          "selectedColor": "Glass"
         }
       ],
       "allConnectors": [
@@ -19572,9 +19585,9 @@
           "ap2ID": "238fac3f-68d0-40c9-bf63-d4bfbee6bf93"
         },
         {
-          "ap2Name": "number or geometry",
+          "ap2Name": "geometry",
           "ap1ID": "208f9c73-98a9-4c24-994f-0b7e2ac907e0",
-          "ap2ID": 1749241083956
+          "ap2ID": "id-151873"
         },
         {
           "ap2Name": "remove",
@@ -19650,6 +19663,11 @@
           "ap2Name": "Shape 3",
           "ap1ID": "43c45c0b-b826-46fa-a056-b7fda982ccad",
           "ap2ID": "f9a11159-9bd9-448b-b687-28eec69b2c9c"
+        },
+        {
+          "ap2Name": "number or geometry",
+          "ap1ID": "id-151873",
+          "ap2ID": 1749241083956
         }
       ],
       "fileTypeVersion": 1
