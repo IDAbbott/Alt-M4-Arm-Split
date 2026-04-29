@@ -15093,7 +15093,7 @@
                 },
                 {
                   "name": "zDist",
-                  "ioValue": 10
+                  "ioValue": 8
                 }
               ]
             },
@@ -15124,7 +15124,7 @@
             {
               "atomType": "Move",
               "x": 0.711472602739726,
-              "y": 0.29540481400437635,
+              "y": 0.26914660831509846,
               "uniqueID": "id-80374",
               "ioValues": [
                 {
@@ -15141,7 +15141,7 @@
                 },
                 {
                   "name": "zDist",
-                  "ioValue": 10
+                  "ioValue": 8
                 }
               ]
             },
@@ -15478,7 +15478,7 @@
                 },
                 {
                   "name": "zDist",
-                  "ioValue": 15
+                  "ioValue": 10
                 }
               ]
             },
@@ -15502,7 +15502,7 @@
                 },
                 {
                   "name": "zDist",
-                  "ioValue": 15
+                  "ioValue": 10
                 }
               ]
             },
@@ -21846,7 +21846,7 @@
                     },
                     {
                       "name": "zDist",
-                      "ioValue": 10
+                      "ioValue": 8
                     }
                   ]
                 },
@@ -21894,7 +21894,7 @@
                     },
                     {
                       "name": "zDist",
-                      "ioValue": 10
+                      "ioValue": 8
                     }
                   ]
                 },
