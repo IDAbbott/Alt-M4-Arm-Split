@@ -481,8 +481,7 @@
         },
         {
           "name": "xDist",
-          "ioValue": 0,
-          "currentEquation": "0"
+          "ioValue": 0
         },
         {
           "name": "yDist",
@@ -21395,7 +21394,7 @@
               "ioValues": [
                 {
                   "name": "x length",
-                  "ioValue": 15
+                  "ioValue": 7
                 },
                 {
                   "name": "y length",
