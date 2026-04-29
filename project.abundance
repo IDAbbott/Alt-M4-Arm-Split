@@ -10111,8 +10111,8 @@
     },
     {
       "atomType": "Molecule",
-      "x": 0.06678082191780822,
-      "y": 0.17067833698030635,
+      "x": 0.0702054794520548,
+      "y": 0.16411378555798686,
       "uniqueID": 1749241083253,
       "name": "Base",
       "topLevel": false,
@@ -10863,7 +10863,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "move-extrude-rectangle-8-40-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-10--84-0-18",
+                    "geometry": "move-extrude-rectangle-8-40-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-10--82-0-18",
                     "dimension": "3D",
                     "plane": {
                       "origin": [
@@ -14825,8 +14825,8 @@
             },
             {
               "atomType": "Assembly",
-              "x": 0.7003424657534247,
-              "y": 0.6323851203501094,
+              "x": 0.6986301369863014,
+              "y": 0.6411378555798688,
               "uniqueID": "id-21390",
               "ioValues": [
                 {
@@ -14885,8 +14885,8 @@
             },
             {
               "atomType": "Move",
-              "x": 0.31643835616438354,
-              "y": 0.8708971553610503,
+              "x": 0.3142123287671233,
+              "y": 0.8665207877461707,
               "uniqueID": "id-149300",
               "ioValues": [
                 {
@@ -14895,7 +14895,7 @@
                 },
                 {
                   "name": "xDist",
-                  "ioValue": -84
+                  "ioValue": -81
                 },
                 {
                   "name": "yDist",
@@ -14904,8 +14904,7 @@
                 },
                 {
                   "name": "zDist",
-                  "ioValue": 18,
-                  "currentEquation": "18"
+                  "ioValue": 18
                 }
               ]
             }
@@ -21471,8 +21470,7 @@
                 },
                 {
                   "name": "y length",
-                  "ioValue": 96,
-                  "currentEquation": "96"
+                  "ioValue": 96
                 }
               ]
             },
