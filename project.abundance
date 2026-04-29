@@ -21643,7 +21643,7 @@
                 },
                 {
                   "name": "zDist",
-                  "ioValue": 8
+                  "ioValue": 4
                 }
               ]
             },
@@ -21735,7 +21735,7 @@
               "ioValues": [
                 {
                   "name": "x length",
-                  "ioValue": 50
+                  "ioValue": 60
                 },
                 {
                   "name": "y length",
@@ -21746,7 +21746,7 @@
             {
               "atomType": "Extrude",
               "x": 0.1892123287671233,
-              "y": 0.3304157549234136,
+              "y": 0.3260393873085339,
               "uniqueID": "id-90858",
               "ioValues": [
                 {
