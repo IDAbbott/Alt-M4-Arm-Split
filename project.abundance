@@ -22664,6 +22664,30 @@
               ]
             },
             {
+              "atomType": "Assembly",
+              "x": 0.4905821917808219,
+              "y": 0.4420131291028447,
+              "uniqueID": "id-154517",
+              "ioValues": [
+                {
+                  "name": "Shape 1",
+                  "ioValue": null
+                },
+                {
+                  "name": "Shape 2",
+                  "ioValue": null
+                },
+                {
+                  "name": "Shape 3",
+                  "ioValue": null
+                },
+                {
+                  "name": "Shape 4",
+                  "ioValue": null
+                }
+              ]
+            },
+            {
               "atomType": "GitHubMolecule",
               "x": 0.12157534246575342,
               "y": 0.4442013129102845,
@@ -23066,30 +23090,6 @@
               "unitsKey": "MM",
               "fileTypeVersion": 1,
               "lastReloadedFromGithubAt": 1777523237978
-            },
-            {
-              "atomType": "Assembly",
-              "x": 0.4905821917808219,
-              "y": 0.4420131291028447,
-              "uniqueID": "id-154517",
-              "ioValues": [
-                {
-                  "name": "Shape 1",
-                  "ioValue": null
-                },
-                {
-                  "name": "Shape 2",
-                  "ioValue": null
-                },
-                {
-                  "name": "Shape 3",
-                  "ioValue": null
-                },
-                {
-                  "name": "Shape 4",
-                  "ioValue": null
-                }
-              ]
             }
           ],
           "allConnectors": [
@@ -23114,6 +23114,11 @@
               "ap2ID": "id-154517"
             },
             {
+              "ap2Name": "number or geometry",
+              "ap1ID": "id-154517",
+              "ap2ID": "id-154437"
+            },
+            {
               "ap2Name": "geometry",
               "ap1ID": "id-154476",
               "ap2ID": "id-154439"
@@ -23132,11 +23137,6 @@
               "ap2Name": "geometry",
               "ap1ID": "id-154476",
               "ap2ID": "id-154442"
-            },
-            {
-              "ap2Name": "number or geometry",
-              "ap1ID": "id-154517",
-              "ap2ID": "id-154437"
             }
           ],
           "fileTypeVersion": 1
