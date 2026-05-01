@@ -7727,7 +7727,7 @@
             {
               "name": "Shape 2",
               "ioValue": {
-                "geometry": "fuse-fuse-fuse-fuse-fuse-move-extrude-circle-5-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-4--66--25-0-move-extrude-circle-5-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-4--66-25-0-move-extrude-circle-5-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-4--77-25-0-move-extrude-circle-5-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-4--77--25-0-move-extrude-circle-5-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-4--95-0-0-move-extrude-circle-12.5-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-10--71.3-0-0",
+                "geometry": "fuse-fuse-fuse-fuse-fuse-move-extrude-circle-5-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-4--66--25-0-move-extrude-circle-5-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-4--66-25-0-move-extrude-circle-5-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-4--77-25-0-move-extrude-circle-5-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-4--77--25-0-move-extrude-circle-5-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-4--95-0-0-move-extrude-circle-12.5-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-6--70.9-0-0",
                 "tags": [],
                 "bom": [],
                 "plane": {
@@ -8030,8 +8030,8 @@
             },
             {
               "atomType": "Circle",
-              "x": 0.13820754716981132,
-              "y": 0.5603960396039603,
+              "x": 0.13199665831244778,
+              "y": 0.29540481400437635,
               "uniqueID": "3244e67e-d44c-4d08-a4c6-17b198426b09",
               "ioValues": [
                 {
@@ -8188,7 +8188,7 @@
                 },
                 {
                   "name": "xDist",
-                  "ioValue": -71.3
+                  "ioValue": -70.9
                 },
                 {
                   "name": "yDist",
@@ -8356,7 +8356,7 @@
                 {
                   "name": "Shape 6",
                   "ioValue": {
-                    "geometry": "move-extrude-circle-12.5-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-10--71.3-0-0",
+                    "geometry": "move-extrude-circle-12.5-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-6--70.9-0-0",
                     "dimension": "3D",
                     "tags": [],
                     "plane": {
@@ -8395,7 +8395,7 @@
                 },
                 {
                   "name": "height",
-                  "ioValue": 10
+                  "ioValue": 6
                 }
               ]
             }
