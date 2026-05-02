@@ -148,8 +148,8 @@
     },
     {
       "atomType": "Move",
-      "x": 0.27732610659439927,
-      "y": 0.973170731707317,
+      "x": 0.28153717627401836,
+      "y": 0.949671772428884,
       "uniqueID": "id-9274",
       "ioValues": [
         {
@@ -495,8 +495,8 @@
     },
     {
       "atomType": "Molecule",
-      "x": 0.11743450767841011,
-      "y": 0.9658536585365854,
+      "x": 0.10025062656641605,
+      "y": 0.9321663019693653,
       "uniqueID": "id-8798",
       "name": "ArmSensorWasher",
       "ioValues": [
@@ -10371,33 +10371,6 @@
                 "dimension": "3D",
                 "nonReplicadSerialized": []
               }
-            },
-            {
-              "name": "Shape 8",
-              "ioValue": {
-                "geometry": "move-extrude-circle-5-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-2-0-0-0",
-                "dimension": "3D",
-                "tags": [],
-                "plane": {
-                  "origin": [
-                    0,
-                    0,
-                    0
-                  ],
-                  "xDir": [
-                    1,
-                    0,
-                    0
-                  ],
-                  "normal": [
-                    0,
-                    0,
-                    1
-                  ]
-                },
-                "color": "#aad7f2",
-                "bom": []
-              }
             }
           ],
           "unionType": "Fusion"
@@ -11074,58 +11047,6 @@
           "selectedColor": "Glass"
         },
         {
-          "atomType": "Circle",
-          "x": 0.4628237259816207,
-          "y": 0.899343544857768,
-          "uniqueID": "id-162322",
-          "ioValues": [
-            {
-              "name": "diameter",
-              "ioValue": 10
-            }
-          ]
-        },
-        {
-          "atomType": "Move",
-          "x": 0.6574770258980785,
-          "y": 0.9168490153172866,
-          "uniqueID": "id-162325",
-          "ioValues": [
-            {
-              "name": "geometry",
-              "ioValue": "__GEOMETRY_INPUT__"
-            },
-            {
-              "name": "xDist",
-              "ioValue": 0
-            },
-            {
-              "name": "yDist",
-              "ioValue": 0
-            },
-            {
-              "name": "zDist",
-              "ioValue": 0
-            }
-          ]
-        },
-        {
-          "atomType": "Extrude",
-          "x": 0.5547201336675021,
-          "y": 0.9146608315098468,
-          "uniqueID": "id-162331",
-          "ioValues": [
-            {
-              "name": "geometry",
-              "ioValue": "__GEOMETRY_INPUT__"
-            },
-            {
-              "name": "height",
-              "ioValue": 2
-            }
-          ]
-        },
-        {
           "atomType": "Molecule",
           "x": 0.2285958904109589,
           "y": 0.44857768052516406,
@@ -11199,8 +11120,8 @@
             },
             {
               "atomType": "Circle",
-              "x": 0.07264150943396226,
-              "y": 0.49108910891089114,
+              "x": 0.07184628237259816,
+              "y": 0.474835886214442,
               "uniqueID": "bb1b65f0-e7d0-4dc2-8452-240a428d6c0c",
               "ioValues": [
                 {
@@ -11311,6 +11232,22 @@
                 }
               ],
               "unionType": "Fusion"
+            },
+            {
+              "atomType": "Extrude",
+              "x": 0.1871345029239766,
+              "y": 0.6542669584245077,
+              "uniqueID": "id-167531",
+              "ioValues": [
+                {
+                  "name": "geometry",
+                  "ioValue": "__GEOMETRY_INPUT__"
+                },
+                {
+                  "name": "height",
+                  "ioValue": 10
+                }
+              ]
             }
           ],
           "allConnectors": [
@@ -11333,6 +11270,11 @@
               "ap2Name": "geometry",
               "ap1ID": "bb1b65f0-e7d0-4dc2-8452-240a428d6c0c",
               "ap2ID": "8440c0ad-b156-418b-9dcb-837262d125f3"
+            },
+            {
+              "ap2Name": "geometry",
+              "ap1ID": "bb1b65f0-e7d0-4dc2-8452-240a428d6c0c",
+              "ap2ID": "id-167531"
             },
             {
               "ap2Name": "geometry",
@@ -19095,21 +19037,6 @@
           "ap2Name": "number or geometry",
           "ap1ID": "id-151873",
           "ap2ID": 1749241083956
-        },
-        {
-          "ap2Name": "geometry",
-          "ap1ID": "id-162322",
-          "ap2ID": "id-162331"
-        },
-        {
-          "ap2Name": "Shape 8",
-          "ap1ID": "id-162325",
-          "ap2ID": "f9a11159-9bd9-448b-b687-28eec69b2c9c"
-        },
-        {
-          "ap2Name": "geometry",
-          "ap1ID": "id-162331",
-          "ap2ID": "id-162325"
         },
         {
           "ap2Name": "Shape 6",
