@@ -19811,10 +19811,6 @@
                 {
                   "name": "Shape 8",
                   "ioValue": null
-                },
-                {
-                  "name": "Shape 9",
-                  "ioValue": null
                 }
               ]
             },
@@ -20809,62 +20805,6 @@
                   "ioValue": 14.1
                 }
               ]
-            },
-            {
-              "atomType": "RegularPolygon",
-              "x": 0.10824742268041238,
-              "y": 0.9662447257383966,
-              "uniqueID": "id-182654",
-              "ioValues": [
-                {
-                  "name": "number of sides",
-                  "ioValue": 6
-                },
-                {
-                  "name": "diameter",
-                  "ioValue": 38
-                }
-              ]
-            },
-            {
-              "atomType": "Extrude",
-              "x": 0.20824742268041238,
-              "y": 0.9662447257383966,
-              "uniqueID": "id-182658",
-              "ioValues": [
-                {
-                  "name": "geometry",
-                  "ioValue": "__GEOMETRY_INPUT__"
-                },
-                {
-                  "name": "height",
-                  "ioValue": 20
-                }
-              ]
-            },
-            {
-              "atomType": "Move",
-              "x": 0.48883161512027495,
-              "y": 0.9472573839662448,
-              "uniqueID": "id-182662",
-              "ioValues": [
-                {
-                  "name": "geometry",
-                  "ioValue": "__GEOMETRY_INPUT__"
-                },
-                {
-                  "name": "xDist",
-                  "ioValue": -70.9
-                },
-                {
-                  "name": "yDist",
-                  "ioValue": 0
-                },
-                {
-                  "name": "zDist",
-                  "ioValue": 10
-                }
-              ]
             }
           ],
           "allConnectors": [
@@ -21012,21 +20952,6 @@
               "ap2Name": "Shape 4",
               "ap1ID": "id-182648",
               "ap2ID": "id-75153"
-            },
-            {
-              "ap2Name": "geometry",
-              "ap1ID": "id-182654",
-              "ap2ID": "id-182658"
-            },
-            {
-              "ap2Name": "geometry",
-              "ap1ID": "id-182658",
-              "ap2ID": "id-182662"
-            },
-            {
-              "ap2Name": "Shape 9",
-              "ap1ID": "id-182662",
-              "ap2ID": "id-75158"
             }
           ],
           "fileTypeVersion": 1
