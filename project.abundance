@@ -481,7 +481,7 @@
         },
         {
           "name": "xDist",
-          "ioValue": -30
+          "ioValue": 0
         },
         {
           "name": "yDist",
