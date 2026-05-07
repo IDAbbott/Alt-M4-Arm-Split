@@ -467,7 +467,7 @@
           "ioValue": "__GEOMETRY_INPUT__"
         }
       ],
-      "selectedColor": "Glass"
+      "selectedColor": "Teal"
     },
     {
       "atomType": "Move",
@@ -481,11 +481,12 @@
         },
         {
           "name": "xDist",
-          "ioValue": 0
+          "ioValue": -30
         },
         {
           "name": "yDist",
-          "ioValue": 100
+          "ioValue": 100,
+          "currentEquation": "100"
         },
         {
           "name": "zDist",
