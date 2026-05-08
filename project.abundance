@@ -19734,34 +19734,6 @@
               ]
             },
             {
-              "atomType": "Circle",
-              "x": 0.10188356164383561,
-              "y": 0.4901531728665207,
-              "uniqueID": "id-59902",
-              "ioValues": [
-                {
-                  "name": "diameter",
-                  "ioValue": 134
-                }
-              ]
-            },
-            {
-              "atomType": "Extrude",
-              "x": 0.3159246575342466,
-              "y": 0.4804878048780488,
-              "uniqueID": "id-59903",
-              "ioValues": [
-                {
-                  "name": "geometry",
-                  "ioValue": "__GEOMETRY_INPUT__"
-                },
-                {
-                  "name": "height",
-                  "ioValue": 22
-                }
-              ]
-            },
-            {
               "atomType": "Assembly",
               "x": 0.5881849315068494,
               "y": 0.17943107221006566,
@@ -20157,11 +20129,12 @@
                 },
                 {
                   "name": "yDist",
-                  "ioValue": 0
+                  "ioValue": 0,
+                  "currentEquation": "0"
                 },
                 {
                   "name": "zDist",
-                  "ioValue": 17.1
+                  "ioValue": 19.1
                 }
               ]
             },
@@ -20881,11 +20854,6 @@
               "ap2Name": "number or geometry",
               "ap1ID": "id-59901",
               "ap2ID": "id-59894"
-            },
-            {
-              "ap2Name": "geometry",
-              "ap1ID": "id-59902",
-              "ap2ID": "id-59903"
             },
             {
               "ap2Name": "retain",
