@@ -20137,7 +20137,7 @@
                 },
                 {
                   "name": "height",
-                  "ioValue": 12
+                  "ioValue": 6
                 }
               ]
             },
@@ -20161,7 +20161,7 @@
                 },
                 {
                   "name": "zDist",
-                  "ioValue": 14.1
+                  "ioValue": 17.1
                 }
               ]
             },
