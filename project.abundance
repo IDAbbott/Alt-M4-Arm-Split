@@ -14007,8 +14007,7 @@
                 },
                 {
                   "name": "xDist",
-                  "ioValue": -80,
-                  "currentEquation": "-80"
+                  "ioValue": -80
                 },
                 {
                   "name": "yDist",
