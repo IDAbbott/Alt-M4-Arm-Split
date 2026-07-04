@@ -966,8 +966,8 @@
     },
     {
       "atomType": "Molecule",
-      "x": 0.03926482873851295,
-      "y": 0.8336980306345734,
+      "x": 0.04114189756507137,
+      "y": 0.84,
       "uniqueID": "55e11a8e-beae-4ed9-887a-4054994c0b49",
       "name": "ArmNewCenterCap",
       "ioValues": [
@@ -1155,7 +1155,7 @@
             {
               "name": "Shape 6",
               "ioValue": {
-                "geometry": "fuse-cut-loft-move-circle-66-0-0-0-move-circle-30-0-0-0-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-{\"origin\":[0,0,-10],\"xDir\":[1,0,0],\"normal\":[0,0,1]}---loft-move-circle-30-0-0-0-circle-5-{\"origin\":[0,0,-10],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}---fuse-extrude-cut-circle-66-circle-44-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-7-fuse-extrude-cut-circle-68-move-circle-66-0-0-0-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-4-fuse-move-extrude-circle-13-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-7-0-0-0-move-extrude-circle-68-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-2-0-0-0",
+                "geometry": "fuse-cut-loft-move-circle-68-0-0-0-move-circle-50-0-0-0-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-{\"origin\":[0,0,-10],\"xDir\":[1,0,0],\"normal\":[0,0,1]}---loft-move-circle-50-0-0-0-circle-2.5-{\"origin\":[0,0,-10],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}---fuse-extrude-cut-circle-66-circle-44-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-7-fuse-extrude-cut-circle-68-move-circle-66-0-0-0-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-4-fuse-move-extrude-circle-13-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-7-0-0-0-move-extrude-circle-68-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-2-0-0-0",
                 "tags": [],
                 "bom": [],
                 "plane": {
@@ -1307,8 +1307,8 @@
             },
             {
               "atomType": "Circle",
-              "x": 0.10663308144416457,
-              "y": 0.4635294117647059,
+              "x": 0.10243492863140218,
+              "y": 0.4494117647058824,
               "uniqueID": "bb1b65f0-e7d0-4dc2-8452-240a428d6c0c",
               "ioValues": [
                 {
@@ -1474,7 +1474,7 @@
                 {
                   "name": "Shape 6",
                   "ioValue": {
-                    "geometry": "cut-loft-move-circle-66-0-0-0-move-circle-30-0-0-0-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-{\"origin\":[0,0,-10],\"xDir\":[1,0,0],\"normal\":[0,0,1]}---loft-move-circle-30-0-0-0-circle-5-{\"origin\":[0,0,-10],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}--",
+                    "geometry": "cut-loft-move-circle-68-0-0-0-move-circle-50-0-0-0-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-{\"origin\":[0,0,-10],\"xDir\":[1,0,0],\"normal\":[0,0,1]}---loft-move-circle-50-0-0-0-circle-2.5-{\"origin\":[0,0,-10],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}--",
                     "dimension": "3D",
                     "tags": [],
                     "plane": {
@@ -1571,8 +1571,8 @@
             },
             {
               "atomType": "Circle",
-              "x": 0.052057094878253565,
-              "y": 0.5623529411764706,
+              "x": 0.05289672544080604,
+              "y": 0.5505882352941176,
               "uniqueID": "id-177662",
               "ioValues": [
                 {
@@ -1627,8 +1627,8 @@
             },
             {
               "atomType": "Loft",
-              "x": 0.34508816120906805,
-              "y": 0.7952941176470588,
+              "x": 0.34676742233417296,
+              "y": 0.7905882352941177,
               "uniqueID": "id-197917",
               "ioValues": [
                 {
@@ -1646,7 +1646,7 @@
                 {
                   "name": "Shape 1",
                   "ioValue": {
-                    "geometry": "move-circle-66-0-0-0",
+                    "geometry": "move-circle-68-0-0-0",
                     "dimension": "2D",
                     "tags": [],
                     "plane": {
@@ -1673,7 +1673,7 @@
                 {
                   "name": "Shape 2",
                   "ioValue": {
-                    "geometry": "move-circle-30-0-0-0",
+                    "geometry": "move-circle-50-0-0-0",
                     "dimension": "2D",
                     "tags": [],
                     "plane": {
@@ -1706,8 +1706,8 @@
             },
             {
               "atomType": "Move",
-              "x": 0.24349286314021829,
-              "y": 0.7764705882352941,
+              "x": 0.21830394626364402,
+              "y": 0.7505882352941177,
               "uniqueID": "id-197920",
               "ioValues": [
                 {
@@ -1776,7 +1776,7 @@
               "ioValues": [
                 {
                   "name": "diameter",
-                  "ioValue": 60
+                  "ioValue": 100
                 }
               ]
             },
@@ -1801,7 +1801,7 @@
                 {
                   "name": "Shape 1",
                   "ioValue": {
-                    "geometry": "move-circle-30-0-0-0",
+                    "geometry": "move-circle-50-0-0-0",
                     "dimension": "2D",
                     "tags": [],
                     "plane": {
@@ -1828,7 +1828,7 @@
                 {
                   "name": "Shape 2",
                   "ioValue": {
-                    "geometry": "circle-5",
+                    "geometry": "circle-2.5",
                     "dimension": "2D",
                     "tags": [],
                     "plane": {
@@ -1867,7 +1867,7 @@
               "ioValues": [
                 {
                   "name": "diameter",
-                  "ioValue": 10
+                  "ioValue": 5
                 }
               ]
             }
@@ -1882,6 +1882,11 @@
               "ap2Name": "retain",
               "ap1ID": "c6e61754-e7aa-448f-a436-a9895d76a404",
               "ap2ID": "id-19245"
+            },
+            {
+              "ap2Name": "geometry",
+              "ap1ID": "c6e61754-e7aa-448f-a436-a9895d76a404",
+              "ap2ID": "id-197920"
             },
             {
               "ap2Name": "geometry",
@@ -1937,11 +1942,6 @@
               "ap2Name": "retain",
               "ap1ID": "id-177662",
               "ap2ID": "id-177668"
-            },
-            {
-              "ap2Name": "geometry",
-              "ap1ID": "id-177662",
-              "ap2ID": "id-197920"
             },
             {
               "ap2Name": "remove",
