@@ -1699,7 +1699,7 @@
                 },
                 {
                   "name": "Shape 4",
-                  "ioValue": null
+                  "ioValue": "__GEOMETRY_INPUT__"
                 }
               ],
               "closedSelection": 0
@@ -1854,7 +1854,7 @@
                 },
                 {
                   "name": "Shape 3",
-                  "ioValue": null
+                  "ioValue": "__GEOMETRY_INPUT__"
                 }
               ],
               "closedSelection": 0
@@ -6666,10 +6666,7 @@
                     "tags": [],
                     "bom": [],
                     "dimension": "3D",
-                    "nonReplicadSerialized": [
-                      {},
-                      {}
-                    ],
+                    "nonReplicadSerialized": [],
                     "boundingBox": {
                       "min": [
                         98.7999999,
