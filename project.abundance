@@ -1359,8 +1359,8 @@
             },
             {
               "atomType": "Fusion",
-              "x": 0.5457598656591099,
-              "y": 0.3905882352941177,
+              "x": 0.5415617128463477,
+              "y": 0.39529411764705885,
               "uniqueID": "4b35fcea-b0e2-4e93-8618-d18c64103895",
               "ioValues": [
                 {
@@ -1599,8 +1599,8 @@
             },
             {
               "atomType": "Extrude",
-              "x": 0.375,
-              "y": 0.6586433260393872,
+              "x": 0.3610411418975651,
+              "y": 0.6235294117647059,
               "uniqueID": "id-177672",
               "ioValues": [
                 {
@@ -3023,8 +3023,7 @@
                 },
                 {
                   "name": "xDist",
-                  "ioValue": -83,
-                  "currentEquation": "-83"
+                  "ioValue": -83
                 },
                 {
                   "name": "yDist",
@@ -3793,6 +3792,22 @@
               ]
             },
             {
+              "atomType": "Rectangle",
+              "x": 0.12594458438287154,
+              "y": 0.8941176470588235,
+              "uniqueID": "id-203047",
+              "ioValues": [
+                {
+                  "name": "x length",
+                  "ioValue": 13
+                },
+                {
+                  "name": "y length",
+                  "ioValue": 5
+                }
+              ]
+            },
+            {
               "atomType": "GitHubMolecule",
               "x": 0.10860484544695072,
               "y": 0.4945295404814004,
@@ -4194,23 +4209,6 @@
               },
               "unitsKey": "MM",
               "fileTypeVersion": 1
-            },
-            {
-              "atomType": "Rectangle",
-              "x": 0.12594458438287154,
-              "y": 0.8941176470588235,
-              "uniqueID": "id-203047",
-              "ioValues": [
-                {
-                  "name": "x length",
-                  "ioValue": 13
-                },
-                {
-                  "name": "y length",
-                  "ioValue": 5,
-                  "currentEquation": "5"
-                }
-              ]
             }
           ],
           "allConnectors": [
@@ -4291,13 +4289,13 @@
             },
             {
               "ap2Name": "geometry",
-              "ap1ID": "id-52696",
-              "ap2ID": "id-52737"
+              "ap1ID": "id-203047",
+              "ap2ID": "id-200503"
             },
             {
               "ap2Name": "geometry",
-              "ap1ID": "id-203047",
-              "ap2ID": "id-200503"
+              "ap1ID": "id-52696",
+              "ap2ID": "id-52737"
             }
           ],
           "fileTypeVersion": 1
