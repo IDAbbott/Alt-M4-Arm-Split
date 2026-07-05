@@ -1155,7 +1155,7 @@
             {
               "name": "Shape 6",
               "ioValue": {
-                "geometry": "fuse-fuse-extrude-cut-circle-66-circle-44-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-7-fuse-extrude-cut-circle-68-move-circle-66-0-0-0-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-4-fuse-move-extrude-circle-13-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-7-0-0-0-move-extrude-circle-68-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-2-0-0-0-loft-move-circle-66-0-0-0-move-circle-50-0-0-0-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-{\"origin\":[0,0,-10],\"xDir\":[1,0,0],\"normal\":[0,0,1]}--",
+                "geometry": "fuse-fuse-extrude-cut-circle-66-circle-44-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-7-fuse-extrude-cut-circle-68-move-circle-66-0-0-0-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-4-fuse-move-extrude-circle-13-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-7-0-0-0-move-extrude-circle-68-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-2-0-0-0-loft-move-circle-68-0-0-0-move-circle-50-0-0-0-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-{\"origin\":[0,0,-10],\"xDir\":[1,0,0],\"normal\":[0,0,1]}--",
                 "tags": [],
                 "bom": [],
                 "plane": {
@@ -1219,8 +1219,8 @@
         },
         {
           "atomType": "Assembly",
-          "x": 0.3904282115869017,
-          "y": 0.8564705882352941,
+          "x": 0.40806045340050384,
+          "y": 0.5670588235294117,
           "uniqueID": "id-6919",
           "ioValues": [
             {
@@ -1474,7 +1474,7 @@
                 {
                   "name": "Shape 6",
                   "ioValue": {
-                    "geometry": "loft-move-circle-66-0-0-0-move-circle-50-0-0-0-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-{\"origin\":[0,0,-10],\"xDir\":[1,0,0],\"normal\":[0,0,1]}--",
+                    "geometry": "loft-move-circle-68-0-0-0-move-circle-50-0-0-0-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-{\"origin\":[0,0,-10],\"xDir\":[1,0,0],\"normal\":[0,0,1]}--",
                     "dimension": "3D",
                     "tags": [],
                     "plane": {
@@ -1634,7 +1634,7 @@
                 {
                   "name": "Shape 1",
                   "ioValue": {
-                    "geometry": "move-circle-66-0-0-0",
+                    "geometry": "move-circle-68-0-0-0",
                     "dimension": "2D",
                     "tags": [],
                     "plane": {
@@ -1766,6 +1766,11 @@
             },
             {
               "ap2Name": "geometry",
+              "ap1ID": "c6e61754-e7aa-448f-a436-a9895d76a404",
+              "ap2ID": "id-197920"
+            },
+            {
+              "ap2Name": "geometry",
               "ap1ID": "f4530b76-dabd-4a4c-8e41-ee9a2ad43976",
               "ap2ID": "7d2b1db0-8806-4faf-8db1-9ad9072703df"
             },
@@ -1798,11 +1803,6 @@
               "ap2Name": "geometry",
               "ap1ID": "id-19242",
               "ap2ID": "id-159764"
-            },
-            {
-              "ap2Name": "geometry",
-              "ap1ID": "id-19242",
-              "ap2ID": "id-197920"
             },
             {
               "ap2Name": "retain",
@@ -2925,8 +2925,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.10340909090909091,
-          "y": 0.9190371991247266,
+          "x": 0.11838790931989923,
+          "y": 0.788235294117647,
           "uniqueID": "id-6905",
           "name": "CentreCapTrim",
           "topLevel": false,
@@ -3357,8 +3357,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.09659090909090909,
-          "y": 0.7921225382932165,
+          "x": 0.10411418975650713,
+          "y": 0.6423529411764706,
           "uniqueID": "1c8eb2bb-2fca-471e-bd0e-4f32131dadef",
           "name": "PostHoles",
           "topLevel": false,
