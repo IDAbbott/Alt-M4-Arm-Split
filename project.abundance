@@ -1771,6 +1771,18 @@
                       "ioValue": "__GEOMETRY_INPUT__"
                     }
                   ]
+                },
+                {
+                  "atomType": "Circle",
+                  "x": 0.1780016792611251,
+                  "y": 0.33647058823529413,
+                  "uniqueID": "id-208152",
+                  "ioValues": [
+                    {
+                      "name": "diameter",
+                      "ioValue": 10
+                    }
+                  ]
                 }
               ],
               "allConnectors": [],
