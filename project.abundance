@@ -1474,7 +1474,7 @@
                 {
                   "name": "Shape 6",
                   "ioValue": {
-                    "geometry": "loft-move-circle-68-0-0-0-move-circle-50-0-0-0-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-{\"origin\":[0,0,-10],\"xDir\":[1,0,0],\"normal\":[0,0,1]}--",
+                    "geometry": "loft-move-circle-68-0-0-0-move-circle-55-0-0-0-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-{\"origin\":[0,0,-10],\"xDir\":[1,0,0],\"normal\":[0,0,1]}--",
                     "dimension": "3D",
                     "tags": [],
                     "plane": {
@@ -1661,7 +1661,7 @@
                 {
                   "name": "Shape 2",
                   "ioValue": {
-                    "geometry": "move-circle-50-0-0-0",
+                    "geometry": "move-circle-55-0-0-0",
                     "dimension": "2D",
                     "tags": [],
                     "plane": {
@@ -1748,9 +1748,33 @@
               "ioValues": [
                 {
                   "name": "diameter",
-                  "ioValue": 100
+                  "ioValue": 110
                 }
               ]
+            },
+            {
+              "atomType": "Molecule",
+              "x": 0.5356842989084802,
+              "y": 0.6729411764705883,
+              "uniqueID": "id-208148",
+              "name": "Molecule",
+              "topLevel": false,
+              "allAtoms": [
+                {
+                  "atomType": "Output",
+                  "x": 0.98,
+                  "y": 0.5,
+                  "uniqueID": "id-208150",
+                  "ioValues": [
+                    {
+                      "name": "number or geometry",
+                      "ioValue": "__GEOMETRY_INPUT__"
+                    }
+                  ]
+                }
+              ],
+              "allConnectors": [],
+              "fileTypeVersion": 1
             }
           ],
           "allConnectors": [
