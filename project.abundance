@@ -2861,8 +2861,8 @@
             },
             {
               "atomType": "Fusion",
-              "x": 0.8570135746606335,
-              "y": 0.27789473684210525,
+              "x": 0.8588235294117648,
+              "y": 0.25684210526315787,
               "uniqueID": "4b35fcea-b0e2-4e93-8618-d18c64103895",
               "ioValues": [
                 {
@@ -2976,7 +2976,7 @@
                 {
                   "name": "Shape 6",
                   "ioValue": {
-                    "geometry": "cut-move-1b7813a2-100-0-0-0-90-move-extrude-rectangle-500-500-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-300-0-0-0",
+                    "geometry": "cut-cut-move-1b7813a2-110-0-0-0-84-move-extrude-rectangle-500-500-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-300-0-0-0-move-extrude-rectangle-500-500-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-40-0-0--50",
                     "tags": [],
                     "color": "#E6F3FF",
                     "bom": [],
@@ -3263,7 +3263,7 @@
               "ioValues": [
                 {
                   "name": "Radius",
-                  "ioValue": 100
+                  "ioValue": 110
                 }
               ],
               "topLevel": false,
@@ -3351,8 +3351,8 @@
             },
             {
               "atomType": "Move",
-              "x": 0.5217194570135747,
-              "y": 0.6084210526315789,
+              "x": 0.5180995475113122,
+              "y": 0.5663157894736842,
               "uniqueID": "id-210713",
               "ioValues": [
                 {
@@ -3371,7 +3371,7 @@
                 },
                 {
                   "name": "zDist",
-                  "ioValue": 90
+                  "ioValue": 84
                 }
               ]
             },
@@ -3467,7 +3467,7 @@
                 },
                 {
                   "name": "zDist",
-                  "ioValue": -55
+                  "ioValue": -50
                 }
               ]
             },
