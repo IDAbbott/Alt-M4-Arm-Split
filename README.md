@@ -2,7 +2,7 @@
 
 # Alt-M4-Arm-Split
 
-![](/project.svg)
+![](/project.png)
 
 
 
